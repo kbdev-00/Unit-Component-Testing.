@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1774629148075" clover="3.2.0">
+  <project timestamp="1774629148080" name="All files">
+    <metrics statements="35" coveredstatements="35" conditionals="30" coveredconditionals="28" methods="13" coveredmethods="13" elements="78" coveredelements="76" complexity="0" loc="35" ncloc="35" packages="5" files="5" classes="5"/>
+    <package name="Button">
+      <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="Button.jsx" path="C:\Users\bhask\OneDrive\Desktop\week 11\testing-suite\src\components\Button\Button.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="4" count="12" type="stmt"/>
+      </file>
+    </package>
+    <package name="Card">
+      <metrics statements="1" coveredstatements="1" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="Card.jsx" path="C:\Users\bhask\OneDrive\Desktop\week 11\testing-suite\src\components\Card\Card.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="4" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="Counter">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+      <file name="Counter.jsx" path="C:\Users\bhask\OneDrive\Desktop\week 11\testing-suite\src\components\Counter\Counter.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+        <line num="5" count="29" type="stmt"/>
+        <line num="7" count="29" type="stmt"/>
+        <line num="8" count="29" type="stmt"/>
+        <line num="9" count="29" type="stmt"/>
+        <line num="11" count="29" type="stmt"/>
+      </file>
+    </package>
+    <package name="InputField">
+      <metrics statements="2" coveredstatements="2" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <file name="InputField.jsx" path="C:\Users\bhask\OneDrive\Desktop\week 11\testing-suite\src\components\InputField\InputField.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="4" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="UserProfile">
+      <metrics statements="26" coveredstatements="26" conditionals="10" coveredconditionals="8" methods="4" coveredmethods="4"/>
+      <file name="UserProfile.jsx" path="C:\Users\bhask\OneDrive\Desktop\week 11\testing-suite\src\components\UserProfile\UserProfile.jsx">
+        <metrics statements="26" coveredstatements="26" conditionals="10" coveredconditionals="8" methods="4" coveredmethods="4"/>
+        <line num="5" count="12" type="stmt"/>
+        <line num="6" count="12" type="stmt"/>
+        <line num="7" count="12" type="stmt"/>
+        <line num="9" count="12" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="21" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="27" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="32" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="39" count="7" type="stmt"/>
+        <line num="41" count="7" type="stmt"/>
+        <line num="42" count="7" type="stmt"/>
+        <line num="46" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="7" type="stmt"/>
+        <line num="55" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="63" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
